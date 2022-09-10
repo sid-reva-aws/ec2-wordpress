@@ -3,6 +3,8 @@ Deploying a WordPress website on AWS EC2:
 This link provides information on how EC2 and RDS configuration is done on wp-config file once wordpress code is downloaded and extracted on EC2. The sample snapshots can be reviewed on below link:
 https://www.linkedin.com/pulse/integration-aws-ec2-wordpress-using-rds-pratik-kohad
 
+The rar file contains the WP application config files and wp-config file updated with AWS sample RDS details which can be changed to the deployed RDS details.
+
 Step 1 - First, we need to launch an ec2 instance on AWS.
 Step 2: we need to configure Apache WebServer.
   1. login to the EC2 instance.
